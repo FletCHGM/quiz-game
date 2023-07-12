@@ -1,4 +1,4 @@
-# qiz
+# quiz
 
 A new Flutter project.
 
